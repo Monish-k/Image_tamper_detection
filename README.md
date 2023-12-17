@@ -14,4 +14,6 @@
 
 ---
 
-The pre-processing data and code has been used by more than 50 other contributors in kaggle community.
+## Other achivements
+- [ ] The pre-processing data and code has been used by more than 50 other contributors in kaggle community.
+- [ ] Paper Published Images
