@@ -5,7 +5,7 @@
 - ### Repository Contents
   - [ ] Report : PDF with clear explanation of the process and outcome of the project.
   - [ ] Zip file : Contains Jupyter notebook files for code, numpy files of pre-processed data and H5 files of trained nerual networks.
-  - [ ] Publication : Research paper published in IJSDR journal.
+  - [ ] Publication : Research paper published in IJSDR journal. link : https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2207076
 
 - ### Kaggle Links for code and data
   - [ ] Dataset : https://www.kaggle.com/datasets/sophatvathana/casia-dataset
